@@ -1,3 +1,5 @@
+# Resources and Structure
+
 1.  tRNA-Val [ Struwela camposi ]
     https://www.ncbi.nlm.nih.gov/nuccore/NC_087882.1?report=fasta&from=5315&to=5384
 
@@ -13,6 +15,9 @@ FASTA:
 ![Chat GPT response](image-1.png)
 ![Chat GPT response DNA](image-2.png)
 
+2-5. Look in main.py file
+
+Expected output of main.py file for tasks 2-5
 ![Output of main.py file](image-3.png)
 
 # Summarizing
